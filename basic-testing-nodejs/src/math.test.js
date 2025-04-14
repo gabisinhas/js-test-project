@@ -11,7 +11,7 @@ it('should add numbers', () => {
 })
 
 it('should add options', () => {
-    const permission = 'S';
+    const permission = 'W';
     const result = options(permission);
     console.log(result);
     
